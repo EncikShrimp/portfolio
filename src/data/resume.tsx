@@ -166,7 +166,7 @@ export const DATA = {
     {
       title: "Yoom (Zoom clone)",
       href: "https://yoom.encikshrimp.com",
-      dates: "Oct 2023 - Present",
+      dates: "Oct 2024 - Present",
       active: true,
       description:
         "Designed, developed and sold animated UI components for developers.",
