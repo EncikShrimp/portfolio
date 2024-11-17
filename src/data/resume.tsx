@@ -8,7 +8,7 @@ export const DATA = {
   location: "Pahang, Malaysia",
   locationLink: "https://www.google.com/maps/place/Pahang",
   description:
-    "A junior software developer, struggling to make money, and loves cats.",
+    "A full stack software developer, struggling to make money, and loves cats.",
   summary:
     "One of my life goals is to make enough money to retire early and spend my time on other important things. So, I've broken it down into smaller, manageable steps, and surprise one of them is getting good at software development. I’ll do my best to get there, and for those who also have big goals, best of luck to you too.",
   avatarUrl: "/me.png",
