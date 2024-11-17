@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon, FileIcon } from "lucide-react";
 
 export const DATA = {
   name: "Faheem",
@@ -59,6 +59,12 @@ export const DATA = {
 
         navbar: false,
       },
+      Resume: {
+        name: "Resume",
+        url: "https://drive.google.com/file/d/1Z6xVI9oR3e7V8h7UbJAAgFsokRQ7LzCA/view?usp=sharing",
+        icon: Icons.googleDrive,
+        navbar: true,
+      },
       Youtube: {
         name: "Youtube",
         url: "https://dub.sh/dillion-youtube",
@@ -69,7 +75,6 @@ export const DATA = {
         name: "Send Email",
         url: "#",
         icon: Icons.email,
-
         navbar: false,
       },
     },
