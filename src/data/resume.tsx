@@ -7,10 +7,9 @@ export const DATA = {
   url: "https://encikshrimp.com",
   location: "Pahang, Malaysia",
   locationLink: "https://www.google.com/maps/place/Pahang",
-  description:
-    "A full stack software developer, struggling to make money, and loves cats.",
+  description: "A full stack software developer, loves money and cats.",
   summary:
-    "One of my life goals is to make enough money to retire early and spend my time on other important things. So, I've broken it down into smaller, manageable steps, and surprise one of them is getting good at software development. I’ll do my best to get there, and for those who also have big goals, best of luck to you too.",
+    "I'm a developer who loves solving problems, writing clean code, and building things that actually work (most of the time). Beyond the screen, I have two big passions: making money and spoiling my cats—because let’s be honest, one funds the other. I take my work seriously but always keep a sense of humor, because coding without a laugh (and a cat on your lap) is just debugging in the dark. If you’re looking for someone who’s passionate, reliable, and maybe a little too obsessed with feline-approved keyboards, I’m your person.",
   avatarUrl: "/me.png",
   skills: [
     "React",
