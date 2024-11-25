@@ -173,7 +173,7 @@ export const DATA = {
       dates: "Oct 2024 - Present",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Create a zoom clone using Next.js, Clerk, and Stream.io. The main focus of this just to familiarize more with the technologies and to improve my skills.",
       technologies: [
         "Next.js",
         "Typescript",
